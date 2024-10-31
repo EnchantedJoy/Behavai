@@ -1,0 +1,38 @@
+{
+  "name": "behavai",
+  "displayName": "Behavai",
+  "description": "A cross between Behave and One Monokai theme",
+  "version": "0.0.1",
+  "publisher": "4536251",
+  "engines": {
+    "vscode": "^1.85.2"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Behavai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Behavai-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnchantedJoy/Behavai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EnchantedJoy/Behavai/issues"
+  },
+  "homepage": "https://github.com/EnchantedJoy/Behavai/blob/master/README.md",
+  "keywords": [
+    "Vscode",
+    "Theme",
+    "OneMonokai",
+    "Behave"
+  ],
+  "author": "Volar",
+  "license": "MIT"
+}
