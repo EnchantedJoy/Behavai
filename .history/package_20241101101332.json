@@ -2,7 +2,7 @@
   "name": "behavai",
   "displayName": "Behavai",
   "description": "A cross between Behave and One Monokai theme",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "publisher": "4536251",
   "engines": {
     "vscode": "^1.85.2"
@@ -19,7 +19,7 @@
       }
     ]
   },
-  "icon": "icon.jpg",
+  "icon": "./icon",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EnchantedJoy/Behavai.git"

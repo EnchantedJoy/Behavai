@@ -278,7 +278,7 @@
 				"parameter.variable"
 			],
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "italic",
 				"foreground": "#F0D879"
 			}
 		},
