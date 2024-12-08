@@ -17,11 +17,11 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Behavai-color-theme.json"
       },
-      {
-        "label": "Behavai Vitesse",
-        "uiTheme": "vs-dark",
-        "path": "./themes/BehavaiVit-color-theme.json"
-      }
+            {
+              "label": "Behavai",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Behavai-color-theme.json"
+            }
     ]
   },
   "icon": "icon.jpg",
@@ -37,7 +37,6 @@
     "Vscode",
     "Theme",
     "OneMonokai",
-    "Vitesse",
     "Behave"
   ],
   "author": "Volar",
